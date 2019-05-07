@@ -1,0 +1,52 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+build/
+compile-tsc.sh
+lib/
+plugins/
+release/
+compile-tsc.sh
+TSC-qt.pro.user
+contrib/
+translations/
+src/tscd
+src/.DS_Store
+src/qt/res/.DS_Store
+src/qt/res/images/.DS_Store
+.DS_Store
+TSC-Qt.dmg
+TSC-qt.pro.autosave
+*.qm
+
+.qmake.stash

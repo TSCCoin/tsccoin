@@ -1,0 +1,10 @@
+Building TSC
+
+
+See doc/readme-qt.rst for instructions on building TSC QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TSC.
+
+See doc/build-*.txt for instructions on building tscd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TSC.
